@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jonny-Sharpshot
+- 👋 Hi, I’m Jonathan Rivera/ Jonny-Sharpshot
 - 👀 I’m interested in learning more about coding.
 - 🌱 I’m currently learning Python and Networking.
 - 💞️ I’m looking to collaborate on educational level.
-- 📫 How to reach me jonathan@royal4.com, jnrivera1994@hotmail.com, and jnrivera1994@icloud.com.
+- 📫 How to reach me jonathan@royal4.com, jnrivera1994@hotmail.com, jnrivera1994@icloud.com, and www.jonathan.rivera@gmail.com.
 
 <!---
 Jonny-Sharpshot/Jonny-Sharpshot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
