@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning more about coding.
 - 🌱 I’m currently learning Python and Networking.
 - 💞️ I’m looking to collaborate on educational level.
-- 📫 
+- 📫 You can reach at jnrivera1994@hotmail.com, jnrivera1994@icloud.com, support@royal4.com
+- 
 
 <!---
 Jonny-Sharpshot/Jonny-Sharpshot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
