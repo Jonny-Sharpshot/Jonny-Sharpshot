@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about coding.
 - 🌱 I’m currently learning Python and Networking.
 - 💞️ I’m looking to collaborate on educational level.
-- 📫 How to reach me jnrivera1994@hotmail.com, and jnrivera1994@icloud.com.
+- 📫 How to reach me jnrivera1994@hotmail.com, support@royal4.com, and jnrivera1994@icloud.com.
 - Cell +1(562)746-2550.
 
 <!---
