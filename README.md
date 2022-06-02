@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and Networking.
 - 💞️ I’m looking to collaborate on educational level.
 - 📫 You can reach at  jnrivera1994@icloud.com, and support@royal4.com
+- cell phone: +1(562)746-2550
 - 
 
 <!---
